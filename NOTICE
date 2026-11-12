@@ -1,0 +1,19 @@
+analytic-review
+Copyright 2026 Lisa Lee
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Acknowledgments. The wording in this repository is original. Its design draws on:
+
+- The validate-data skill in anthropics/knowledge-work-plugins
+  (https://github.com/anthropics/knowledge-work-plugins), Apache License 2.0,
+  for the structure of the results and pitfall checks and the three-level verdict.
+- UCLA OARC Statistical Consulting, "What statistical analysis should I use?"
+  (https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/), for the structure of
+  the method-selection table.
+- Google Engineering Practices, "What to look for in a code review"
+  (https://google.github.io/eng-practices/review/reviewer/looking-for.html).
+- Wilson G, et al. (2017). Good enough practices in scientific computing.
+  PLOS Computational Biology 13(6): e1005510.
+- The Turing Way (https://book.the-turing-way.org/), Cookiecutter Data Science
+  (https://cookiecutter-data-science.drivendata.org/), and PEP 8.
